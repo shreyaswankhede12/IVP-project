@@ -1,0 +1,81 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+%%%%%%%%% PAPER TYPE  - PLEASE UPDATE FOR FINAL VERSION
+\usepackage{cvpr}              % To produce the CAMERA-READY version
+% \usepackage[review]{cvpr}      % To produce the REVIEW version
+% \usepackage[pagenumbers]{cvpr} % To force page numbers, e.g. for an arXiv version
+
+% Import additional packages in the preamble file, before hyperref
+\input{preamble}
+
+% It is strongly recommended to use hyperref, especially for the review version.
+% hyperref with option pagebackref eases the reviewers' job.
+% Please disable hyperref *only* if you encounter grave issues, 
+% e.g. with the file validation for the camera-ready version.
+%
+% If you comment hyperref and then uncomment it, you should delete *.aux before re-running LaTeX.
+% (Or just hit 'q' on the first LaTeX run, let it finish, and you should be clear).
+\definecolor{cvprblue}{rgb}{0.21,0.49,0.74}
+\usepackage[pagebackref,breaklinks,colorlinks,citecolor=cvprblue]{hyperref}
+
+
+%%%%%%%%% PAPER ID  - PLEASE UPDATE
+\def\paperID{*****} % *** Enter the Paper ID here
+\def\confName{CVPR}
+\def\confYear{2024}
+
+%%%%%%%%% TITLE - PLEASE UPDATE
+\title{\ Digital Image Steganography: A Frequency Domain Approach}
+
+% \author{
+%     Kshitiz Kumar\\
+%     \texttt{ai22mtech02002@iith.ac.in} \and
+%     Tanay Yadav\\
+%     \texttt{ai20btech11026@iith.ac.in} \and
+%     Tanmay Goyal\\
+%     \texttt{ai20btech11021@iith.ac.in} \and
+%     Tanmay Shah\\
+%     \texttt{ee20btech11061@iith.ac.in}
+% }
+
+%%%%%%%% AUTHORS - PLEASE UPDATE
+\author{Shreyas Wankhede\\
+{\tt\small ai21btech11028@iith.ac.in}
+% For a paper whose authors are all at the same institution,
+% omit the following lines up until the closing ``}''.
+% Additional authors and addresses can be added with ``\and'',
+% just like the second author.
+% To save space, use either the email address or home page, not both
+\and
+Abhishek Kumar\\
+{\tt\small ai21btech11003@iith.ac.in}
+\and
+Pradeep Mundlik\\
+{\tt\small ai21btech11022@iith.ac.in}
+\and
+Sathvika Marri\\
+{\tt\small ai21btech11020@iith.ac.in}
+\and
+Jacky Meena\\
+{\tt\small ee21btech11025@iith.ac.in}
+}
+
+
+\begin{document}
+\maketitle
+\input{sec/abstract}    
+\input{sec/Introduction}
+\input{sec/problem_statement}
+\input{sec/literature_review}
+{
+    \small
+    \nocite{*}
+    \bibliographystyle{ieeenat_fullname}
+    \bibliography{main}
+    
+}
+
+% WARNING: do not forget to delete the supplementary pages from your submission 
+% \input{sec/X_suppl}
+
+\end{document}

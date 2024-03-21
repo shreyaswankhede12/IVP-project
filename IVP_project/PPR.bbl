@@ -1,0 +1,50 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Agaian et~al.(2016)Agaian, Mstafa, and Elleithy]{mstafa2016}
+Sos~S. Agaian, Khaled~M. Mstafa, and Khaled Elleithy.
+\newblock Frequency domain approach of image steganography.
+\newblock
+  \url{https://www.researchgate.net/publication/309425281_Frequency_Domain_Approach_of_Image_Steganography},
+  2016.
+
+\bibitem[Commission(2021)]{cie}
+CIE Commission.
+\newblock Cie homepage.
+\newblock \url{http://www.cie.co.at}, 2021.
+
+\bibitem[Rabie(2018)]{rabie2018}
+Tamer Rabie.
+\newblock Digital image steganography: An fft approach.
+\newblock
+  \url{https://www.researchgate.net/publication/269705199_Digital_Image_Steganography_An_FFT_Approach},
+  2018.
+
+\bibitem[Wikipedia(2021{\natexlab{a}})]{wikiDFT}
+Wikipedia.
+\newblock Discrete fourier transform.
+\newblock \url{https://en.wikipedia.org/wiki/Discrete_Fourier_transform},
+  2021{\natexlab{a}}.
+
+\bibitem[Wikipedia(2021{\natexlab{b}})]{wikiFFT}
+Wikipedia.
+\newblock Fast fourier transform.
+\newblock \url{https://en.wikipedia.org/wiki/Fast_Fourier_transform},
+  2021{\natexlab{b}}.
+
+\bibitem[Wikipedia(2021{\natexlab{c}})]{wikiStegano}
+Wikipedia.
+\newblock Steganography.
+\newblock \url{https://en.wikipedia.org/wiki/Steganography},
+  2021{\natexlab{c}}.
+
+\bibitem[YouTube(2021)]{youtubeStegano}
+YouTube.
+\newblock Digital image steganography.
+\newblock \url{https://www.youtube.com/watch?v=u_luy52v7z4}, 2021.
+
+\end{thebibliography}
