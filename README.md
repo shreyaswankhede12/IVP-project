@@ -10,6 +10,7 @@
 ## This repository is organized as follows:
 1. **Code**:
     This folder contains the code in `python` notebooks for the project.
+    `main.ipynb`: This is main file which contains the code for the project.
 2.  **Code/Images**: This folder contains the images used in the   code.
 3. **Report**:
     - **PPR.pdf**: This file contains the detailed description of the problem statement, the methodology used and the results obtained.
