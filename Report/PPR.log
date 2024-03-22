@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.1)  18 FEB 2024 21:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.27)  22 MAR 2024 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/shreyas/Academics/Image_vid_processing/IVP_project/PPR.tex
-(/home/shreyas/Academics/Image_vid_processing/IVP_project/PPR.tex
+**/home/pradeep/Documents/IITH_Academics/sem-6/IVP/IVP-project/Report/PPR.tex
+(/home/pradeep/Documents/IITH_Academics/sem-6/IVP/IVP-project/Report/PPR.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -455,31 +455,27 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) (./sec/abstract.tex) (./sec/Introduction.tex) (./sec/problem_statement.tex) (./sec/literature_review.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] [2]) (./PPR.bbl (./PPR.brf)
-\tf@brf=\write4
-\openout4 = `PPR.brf'.
-
-) [3
+] [2])
+No file PPR.bbl.
+[3
 
 ] (./PPR.aux)
 Package rerunfilecheck Info: File `PPR.out' has not changed.
 (rerunfilecheck)             Checksum: 59D1DDED9248D59B088CE53C564AE306;404.
-Package rerunfilecheck Info: File `PPR.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14835 strings out of 478287
- 245358 string characters out of 5849290
- 579544 words of memory out of 5000000
- 32800 multiletter control sequences out of 15000+600000
- 488221 words of font info for 73 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 87i,9n,91p,2305b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 14760 strings out of 480247
+ 244446 string characters out of 5896151
+ 574499 words of memory out of 5000000
+ 32492 multiletter control sequences out of 15000+600000
+ 484953 words of font info for 63 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 87i,9n,91p,2316b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PPR.pdf (3 pages, 71622 bytes).
+Output written on PPR.pdf (3 pages, 63536 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
